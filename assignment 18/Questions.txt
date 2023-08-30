@@ -1,0 +1,15 @@
+Assignment - 18   A Job Ready Bootcamp in C++, DSA and IOT              MySirG
+                    sing and Functions in C Language
+1. Write a function to calculate length of the sing
+2. Write a function to reverse a sing.
+3. Write a function to compare two sings.
+4. Write a function to transform sing into uppercase
+5. Write a function to transform a sing into lowercase
+6. Write a function to check whether a given sing is an alphanumeric sing or not.
+(Alphanumeric sing must contain at least one alphabet and one digit)
+7. Write a function to check whether a given sing is palindrome or not.
+8. Write a function to count words in a given sing
+9. Write a function to reverse a sing word wise. (For example if the given sing is
+“Mysirg Education Services” then the resulting sing should be “Services Education
+Mysirg” )
+10. Write a function to find the repeated character in a given string.

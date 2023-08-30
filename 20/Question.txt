@@ -1,0 +1,15 @@
+Assignment - 20                                                                     MySirG
+                        A Job Ready Bootcamp in C++, DSA and IOT                                          
+                                    Pointers
+
+1. Write a function to swap values of two in variables of calling function. (TSRS)
+2. Write a function to swap strings of two char arrays of calling functions. (TSRS)
+3. Write a function to sort an array of int type values. [ void sort(int *ptr,int size); ]
+4. Write a program in C to demonstrate how to handle the pointers in the program.
+5. Write a program to find the maximum number between two numbers using a pointer
+6. Write a program to calculate the length of the string using a pointer
+7. Write a program to count the number of vowels and consonants in a string using a
+pointer.
+8. Write a program to compute the sum of all elements in an array using pointers.
+9. Write a program to print the elements of an array in reverse order.
+10. Write a program to print a string in reverse using a pointer

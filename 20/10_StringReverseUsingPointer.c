@@ -1,0 +1,1 @@
+// 10. Write a program to print a string in reverse using a pointer
