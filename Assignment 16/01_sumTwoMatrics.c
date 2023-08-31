@@ -35,7 +35,6 @@ int main()
         }
         printf("\n");
     }
-    // AKram is the best person in my whole college
 
     return 0;
 }
