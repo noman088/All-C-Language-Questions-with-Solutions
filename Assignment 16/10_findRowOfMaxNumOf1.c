@@ -12,23 +12,27 @@ int main()
         for (int j = 0; j < size; j++)
             scanf("%d", &a[i][j]);
 
-    int max = 0, row;
-    for (int i = 0; i < size;i++)
-    {
-        for (int j = 0; j < size;j++)
-        {
-            scanf("%d", &a[i][j]);
-        }
-    }
-    for (int i = 0; i < size;i++)
-    {
-        for (int j = 0; j < size;j++)
-        {
-            printf("%d", a[i][j]);
-        }
-    }
+    for (int i = 0; i < size; i++)
+        for (int j = 0; j < size; j++)
+            scanf("%d", a[i][j]);
 
-        printf("%d has maximum number of rows", row);
+    int max = 0, row;
+    // for (int i = 0; i < size;i++)
+    // {
+    //     for (int j = 0; j < size;j++)
+    //     {
+    //         scanf("%d", &a[i][j]);
+    //     }
+    // }
+    // for (int i = 0; i < size; i++)
+    // {
+    //     for (int j = 0; j < size; j++)
+    //     {
+    //         printf("%d", a[i][j]);
+    //     }
+    // }
+
+    printf("%d has maximum number of rows", row);
 
     return 0;
 }
