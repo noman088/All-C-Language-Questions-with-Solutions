@@ -6,6 +6,14 @@ int main()
 {
     char str[] = "noman";
     char *ptr = str;
-    printf("%s", *ptr);
+    int v = 0, c = 0;
+    for (int i = 0; ptr[i]; i++)
+        if (ptr[i] == 'a' || ptr[i] == 'e' || ptr[i] == 'i' || ptr[i] == 'o' || ptr[i] == 'u')
+            v++;
+        else
+            c++;
+
+    printf("%s has %d vowels and %d consonant", ptr, v, c);
+
     return 0;
 }
