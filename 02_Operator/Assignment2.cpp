@@ -1,3 +1,4 @@
+// this assignment is all about how you can use loop with efficient
 // //1. Write a program to print unit digit of a given number
 
 // #include <stdio.h>
