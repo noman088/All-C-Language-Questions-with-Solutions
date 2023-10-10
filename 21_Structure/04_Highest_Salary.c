@@ -35,12 +35,18 @@ int main()
     printf("How many employee: ");
     scanf("%d", &n);
     struct Employee a[n];
+    char str[20];
+    int max = 0;
     for (int i = 0; i < n; i++)
-
+    {
         setData(&a[i]);
+        if (a[i].salary > max)
+            max = a[i].salary;
+        strcpy(str, a[i].name);
+    }
+
     for (int i = 0; i < n; i++)
         DisplayData(a[i]);
 
-    // setData(&e1);
-    // DisplayData(e1);
+    printf("\n%s has Highest salary", str);
 }

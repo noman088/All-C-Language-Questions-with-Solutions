@@ -27,8 +27,7 @@ void showData(struct Employee emp)
 int main()
 {
     struct Employee a[10];
-    for (int i = 0;i<)
-        setData(&e1);
-
+    
+    
     return 0;
 }
