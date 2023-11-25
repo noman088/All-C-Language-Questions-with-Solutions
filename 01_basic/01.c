@@ -1,9 +1,8 @@
-
 // 1. Write a program to print Hello Students on the screen.
-
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    printf("Hello Students");
+
+    printf("Hello Students ");
     return 0;
 }
