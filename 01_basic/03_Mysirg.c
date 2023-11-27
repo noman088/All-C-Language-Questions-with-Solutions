@@ -2,8 +2,8 @@
 #include<stdio.h>
 int main()
 {
-    // let me improve your code
-
+// How are you my friends
+// Just doing like I have nothing to do 
     printf("\"MySirG\"");
     return 0;
 }
