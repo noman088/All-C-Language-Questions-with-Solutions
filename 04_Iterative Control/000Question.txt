@@ -1,47 +1,21 @@
-                        Decision Control Statements
-1. Write a program to check whether a given number is positive or non-positive.
+                        Iterative Control Statements
 
-2. Write a program to check whether a given number is divisible by 5 or not
+1. Write a program to print MySirG 5 times on the screen
 
-3. Write a program to check whether a given number is an even number or an odd
-number.
+2. Write a program to print the first 10 natural numbers.
 
-4. Write a program to check whether a given number is an even number or an odd
-number without using % operator.
+3. Write a program to print the first 10 natural numbers in reverse order
 
-5. Write a program to check whether a given number is a three-digit number or not.
+4. Write a program to print the first 10 odd natural numbers
 
-6. Write a program to print greater between two numbers. Print one number of both are
-the same.
+5. Write a program to print the first 10 odd natural numbers in reverse order.
 
-7. Write a program to check whether roots of a given quadratic equation are real &
-distinct, real & equal or imaginary roots
+6. Write a program to print the first 10 even natural numbers
 
-8. Write a program to check whether a given year is a leap year or not.
+7. Write a program to print the first 10 even natural numbers in reverse order
 
-9. Write a program to find the greatest among three given numbers. Print number once
-if the greatest number appears two or three times.
+8. Write a program to print squares of the first 10 natural numbers
 
-10. Write a program which takes the cost price and selling price of a product from the
-user. Now calculate and print profit or loss percentage.
+9. Write a program to print cubes of the first 10 natural numbers
 
-11. Write a program to take marks of 5 subjects from the user. Assume marks are given
-out of 100 and passing marks is 33. Now display whether the candidate passed the
-examination or failed.
-
-12. Write a program to check whether a given alphabet is in uppercase or lowercase.
-
-13. Write a program to check whether a given number is divisible by 3 and divisible by 2.
-
-14. Write a program to check whether a given number is divisible by 7 or divisible by 3.
-
-15. Write a program to check whether a given number is positive, negative or zero.
-
-16. Write a program to check whether a given character is an alphabet (uppercase), an
-alphabet (lower case), a digit or a special character.
-
-17. Write a program which takes the length of the sides of a triangle as an input. Display
-whether the triangle is valid or not.
-
-18. Write a program which takes the month number as an input and display number of
-days in that month
+10. Write a program to print a table of 5.
