@@ -1,2 +1,4 @@
-* (.exe)
+*.exe
 .vscode
+practice.c
+practice.cpp
