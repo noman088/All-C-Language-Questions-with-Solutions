@@ -8,5 +8,5 @@ int main()
     // printf("Students");
     printf("Hello\n");
     printf("Students");
-    return 0
+    return 0;
 }
