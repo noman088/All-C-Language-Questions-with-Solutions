@@ -16,18 +16,31 @@ void setData(struct Employee *emp)
     printf("Enter name: ");
     fgets(emp->name, sizeof(emp->name), stdin);
     printf("Enter Salary : ");
-    scanf("%f", emp->salary);
+    scanf("%f", &emp->salary);
+    printf("\n");
 }
 void showData(struct Employee emp)
 {
+    printf("\n");
     printf("id = %d\n", emp.id);
-    printf("id = %s\n", emp.name);
-    printf("id = %.2f\n", emp.salary);
+    printf("name = %s", emp.name);
+    printf("salary = %.2f\n\n", emp.salary);
 }
 int main()
 {
-    struct Employee a[10];
+    int n;
+    printf("How many employees are there : ");
+    scanf("%d", &n);
+    struct Employee a[n];
+    for (int i = 0; i < n; i++)
+    {
+        setData(&a[i]);
+    }
+    for (int i = 0; i < n; i++)
+    {
+        showData(a[i]);
+    }
     
-    
+
     return 0;
 }

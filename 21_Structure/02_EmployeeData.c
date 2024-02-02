@@ -1,5 +1,4 @@
-// 2. Write a function to take input employee data from the user. [ Refer structure from
-// question 1 ]
+// 2. Write a function to take input employee data from the user. [ Refer structure from  question 1 ]
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
@@ -20,9 +19,7 @@ struct Employee setData(struct Employee *emp)
     scanf("%f", &emp->salary);
 }
 
-// // for checking purpose: 
-
-
+// // for checking purpose:
 // void DisplayData(struct Employee emp)
 // {
 //     printf("Employee Id = %d\n", emp.id);
@@ -34,5 +31,5 @@ int main()
 {
     struct Employee e1;
     setData(&e1);
-    // DisplayData(e1);
+    DisplayData(e1);
 }

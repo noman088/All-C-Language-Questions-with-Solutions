@@ -1,6 +1,4 @@
 // 3. Write a function to display employee data. [ Refer structure from question 1 ]
-// 2. Write a function to take input employee data from the user. [ Refer structure from
-// question 1 ]
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
